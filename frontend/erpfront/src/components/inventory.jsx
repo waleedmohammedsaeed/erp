@@ -9,7 +9,6 @@ const Inventory = () => {
         <Statusbar />
         <InventoryHeader />
         <InventoryDash />
-        {/* <div className='h-20 bg-gray-500 text-white px-8 absolute bottom-0'>Footer</div> */}
     </div>
   )
 }

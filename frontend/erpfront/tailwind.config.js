@@ -7,7 +7,8 @@ export default {
     extend: {
       colors:{
         primary: '#068C3F',
-        secondary: 'rgb(108,117,125)'
+        secondary: '#6C757D',
+        light: '#F8F9FA'
       },
       fontFamily:{
         Almarai: 'Almarai'
